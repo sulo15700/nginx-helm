@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2026-02-09T23:03:14.74900481Z"
+    description: Ahelm chart for nginx
+    digest: b1c07581625d98dce31a0cc05966452b87ff85ddce63ac829fbc4a7c87d22adc
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-09T23:03:14.748690006Z"
